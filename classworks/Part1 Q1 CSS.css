@@ -1,0 +1,131 @@
+/* CSS Document */
+#a0{
+background:#372412 url(q1_files/images/img01.gif) repeat-x;                    <!--This is the website's background.-->
+}
+#header{
+padding-top:50px;
+margin:-6px auto auto auto;                                       <!--This is the header's background.-->
+width:830px;
+height:170px;
+background:url(q1_files/images/img02.jpg) no-repeat; 
+}
+#h1{
+color:#372412;
+font-family:"Trebuchet MS";                                     <!--This is the header's background.-->
+padding-left:50px;
+background:url(q1_files/images/img07.gif) no-repeat;
+}
+#h1 a{
+padding-left:50px;
+}
+#menu {
+background: url(q1_files/images/img03.jpg) no-repeat;                 <!--This is the mune's css-->
+width:830px;
+height:108px;
+margin:-52px auto auto auto;
+}
+#menu ul {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+#menu li {
+display: inline;
+}
+#menu ul li a {
+font-size:25px;
+padding-top:30px;
+font-family:Arial, Helvetica, sans-serif;
+font-weight:bold;
+text-align:center;
+color:#FFFFFF;
+display: block;
+float: left;
+width: 166px;
+height: 73px;
+text-decoration: none;
+}
+#menu a:hover {
+background: url(q1_files/images/img09.jpg) no-repeat;
+color:#372412;
+}
+ .h2 {
+font-family:"Trebuchet MS";
+color:#FFFFFF;
+border-bottom-width:2px;
+border-bottom-style:solid;
+border-bottom-color:#4A3903;
+}
+.b1{
+color:#FFFFFF;                                        <!--This is the border-bottom.-->
+font-family:Arial, Helvetica, sans-serif;
+border-bottom-width:1px;
+border-bottom-style:solid;
+border-bottom-color:#4A3903;
+}
+ .fc{
+color:#FFEA6F;
+}
+ .dp{
+margin-top:10px;
+padding-left:250px;
+}
+ .dp li{
+font-family:Arial, Helvetica, sans-serif;
+display:inline;
+}
+ .bg {
+background: url(q1_files/images/img06.gif) no-repeat;
+padding-left:15px;
+}
+ .bg1{
+background: url(q1_files/images/img05.gif) no-repeat;               <!--This is the categories.'s css.-->
+border-bottom-width:2px;
+border-bottom-style:solid;
+border-bottom-color:#4A3903;
+color:#FFFFFF;
+}
+.bg1 a{
+padding-left:30px;
+}
+.h3{
+margin-left:10px;
+}
+.ff {
+font-family:Arial, Helvetica, sans-serif;
+}
+ .bg2 {
+background: url(q1_files/images/img06.gif) no-repeat;                  <!--This is the archives's css.-->
+border-bottom-width:1px;
+border-bottom-style:dotted;
+border-bottom-color:#4A3903;
+}
+.bg2 a {
+padding-left:10px;
+}
+ .fs{
+list-style: none;
+font-family:Arial, Helvetica, sans-serif;
+}
+.fs a{
+text-decoration:none;
+}
+ .fc1{
+color:#FFFFFF;
+}
+#a1 {
+border-top-style:solid;
+border-top-width:3px;
+border-top-color:#E8AD35;
+height:70px;
+background-color:#FFEA6F;
+font-family:Arial, Helvetica, sans-serif;
+text-align:center;
+}
+#a1 p{
+padding:20px 0px 20px 0px;
+color:#D19518;
+}
+#a2{
+color:#372412;
+}
