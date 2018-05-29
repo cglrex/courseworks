@@ -1,0 +1,153 @@
+/* CSS Document */
+
+#a0 {
+background:#372412 url(images/img01.gif) repeat-x;
+}
+#a1 {
+padding:0px;
+margin-top:1px;
+width:830px;
+height:170px;
+display:block;
+background:url(images/img02.jpg) no-repeat;
+}
+table{
+border:none;
+padding:0px;
+margin:0px;
+margin-top:-9px;
+border-collapse:collapse;
+}
+#a2 {
+background:url(images/img03.jpg) no-repeat;
+width:830px;
+height:108px;
+padding:0px;
+margin:0px;
+}
+#menu ul {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+#menu li {
+display: inline;
+}
+#menu a {
+padding-top:30px;
+font-family:"Trebuchet MS";
+font-weight:bold;
+text-align:center;
+color:#FFFFFF;
+display: block;
+float: left;
+width: 166px;
+height: 73px;
+text-decoration: none;
+}
+#menu a:hover {
+margin-top:-0.05px;
+background: url(images/img09.jpg) no-repeat;
+color:#372412;
+}
+#menu .selected a {
+background: url(images/img09.jpg) no-repeat;
+color:#372412;
+}
+#a3 {
+padding-top:70px;
+}
+#h1 {
+color:#372412;
+font-family:"Trebuchet MS";
+background:url(images/img07.gif) no-repeat;
+margin-top:-0.25px;
+padding-left:50px;
+}
+ .pp {
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+width:496px;
+font-size:11px;
+}
+ .p {
+font-family:Arial, Helvetica, sans-serif;
+color:#FFFFFF;
+width:496px;
+font-size:11px;
+}
+ .bb {
+width:496px;
+border-bottom-width:2px;
+border-bottom-style:solid;
+border-bottom-color:#4A3903;
+}
+ .bg {
+background:url(images/img06.gif) no-repeat;
+display:block;
+padding-left:15px;
+}
+ .dp li{
+display:inline;
+}
+ .dp{
+margin-top:5px;
+padding-left:330px;
+}
+ .fc{
+color:#FFEA6F;
+}
+ .fc1{
+ color:#FFFFFF;
+}
+ .bg1{
+background:url(images/img05.gif) no-repeat;
+display:block;
+padding-left:30px;
+font-family:"Trebuchet MS";
+color:white;
+border-bottom-width:2px;
+border-bottom-style:solid;
+border-bottom-color:#4A3903;
+}
+ .fs{
+ font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+}
+#a4 {
+width:232px;
+margin-left:-232px;
+}
+ .bg2 {
+background:url(images/img06.gif) no-repeat;
+display:block;
+padding-left:15px;
+border-bottom-width:1px;
+border-bottom-style:dotted;
+border-bottom-color:#4A3903;
+}
+#a5 {
+border-top-style:solid;
+border-top-width:3px;
+border-top-color:#E8AD35;
+height:70px;
+background-color:#FFEA6F;
+font-size:11px;
+font-family:Arial, Helvetica, sans-serif;
+
+text-align:center;
+}
+#a5 p{
+padding-bottom:20px;
+padding-top:20px;
+color:#D19518;
+}
+#a6{
+color:#372412;
+}
+
+
+
+
+
+
